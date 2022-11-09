@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rita
 - 👀 I’m interested in entry level data science positions
-- 🌱 I completed a masters in data science on August 2022
+- 🌱 I completed a masters in data science August 2022
 - 💞️ I’m looking to collaborate on machine learning classification problems
 - 📫 Reach me www.linkedin.com/in/a-m-135953239 on LinkedIn
 
